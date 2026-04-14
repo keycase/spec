@@ -6,11 +6,11 @@ KeyCase is an open source cryptographic identity and encrypted communication pla
 
 The server is **KeyCase**. The client is **Keybae**.
 
-## What Happened to Keybase
+## Why Build This
 
-Keybase was acquired by Zoom in May 2020. Development effectively stopped. The client remains open source (Go, React Native) but the server is proprietary and unmaintained. The community that depended on Keybase has no path forward within that ecosystem.
+Keybase was acquired by Zoom in May 2020. The client remains open source (Go, React Native) and still receives updates, but the server is proprietary. No new major features have been introduced since the acquisition, and the community has no visibility into the platform's long-term future under Zoom's ownership.
 
-KeyCase doesn't attempt to reverse-engineer or replace the Keybase server. We're building something new.
+KeyCase doesn't attempt to reverse-engineer or replace the Keybase server. We're building something new — fully open, fully self-hostable, with no proprietary server dependency.
 
 ## Principles
 
